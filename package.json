@@ -1,0 +1,11 @@
+{
+  "name": "tsnodewebpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flaviojdp/tsnodewebpack.git",
+  "author": "flavio.paiva",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
